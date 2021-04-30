@@ -1,4 +1,4 @@
-                                                                         # PPE commande
+# PPE commande
 Le sujet de ce PPE concerne la réalisation d’une commande en ligne.
 
 ## Les phases de réalisation
